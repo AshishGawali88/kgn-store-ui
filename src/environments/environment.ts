@@ -3,5 +3,5 @@
 // Set it to your local API while developing, e.g. 'http://localhost:8080'.
 export const environment = {
   production: false,
-  apiBase: 'https://kgn-store-ui.vercel.app'
+  apiBase: 'https://kgn-store-api.onrender.com' 
 };
